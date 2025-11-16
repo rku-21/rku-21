@@ -1,4 +1,6 @@
 # Hi, I'm Rahul 👋
+![Banner](https://github.com/rku-21/rku-21/blob/main/banner.png)
+
 
 ## 🚀 About Me
 - B.Tech ECE @ NIT Nagaland  
@@ -20,6 +22,14 @@
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rku-21&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rku-21&layout=compact&theme=tokyonight)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Web+Developer;Machine+Learning+Learner;Full+Stack+Developer)](https://git.io/typing-svg)
+
+
 
 ## 🔗 Connect With Me
 [LinkedIn](https://linkedin.com/in/rku21)  
