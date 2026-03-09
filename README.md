@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Rahul%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=ECE%20%40%20NIT%20Nagaland%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Full%20Stack&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Rahul%20Upadhyay&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=ECE%20%40%20NIT%20Nagaland%20%C2%B7%20AI%20%2F%20ML%20%C2%B7%20Full%20Stack&descAlignY=58&descColor=a0aec0&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=500&lines=AI%2FML+Engineer+in+progress...;Building+Privex+Chat+App...;Full+Stack+Developer...;Open+to+Collaborate)](https://git.io/typing-svg)
 
