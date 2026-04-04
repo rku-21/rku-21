@@ -47,9 +47,7 @@ Currently shipping a real-time encrypted chat app and an AI video automation pip
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Privex Chat App]((https://privex-200i.onrender.com/))** | Real-time encrypted messaging with peer-to-peer video. Privacy-first. | Node.js · React · WebRTC |
-| 
-
+| **[Privex Chat App](https://privex-200i.onrender.com/)** | Real-time encrypted messaging with peer-to-peer video. Privacy-first. | Node.js · React · WebRTC |
 ---
 
 ## GitHub Stats
