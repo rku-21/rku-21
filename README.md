@@ -47,9 +47,8 @@ Currently shipping a real-time encrypted chat app and an AI video automation pip
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Privex Chat App](https://github.com/rku-21)** | Real-time encrypted messaging with peer-to-peer video. Privacy-first. | Node.js · React · WebRTC |
-| **[AI Video Generator](https://github.com/rku-21)** | Script-to-video automation pipeline — scripting, voiceover, assembly. | Python · AI/ML |
-| **[Smart Attendance System](https://github.com/rku-21)** | Face recognition-based attendance automation for classrooms. | Python · OpenCV · ML |
+| **[Privex Chat App]((https://privex-200i.onrender.com/))** | Real-time encrypted messaging with peer-to-peer video. Privacy-first. | Node.js · React · WebRTC |
+| 
 
 ---
 
