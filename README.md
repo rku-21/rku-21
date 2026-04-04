@@ -43,12 +43,12 @@ Currently shipping a real-time encrypted chat app and an AI video automation pip
 
 ---
 
-## Projects
-
 | Project | Description | Stack |
 |---|---|---|
-| **[Privex Chat App](https://privex-200i.onrender.com/)** | Real-time encrypted messaging with peer-to-peer video. Privacy-first. | Node.js · React · WebRTC |
----
+| **[Privex Chat App](https://privex-200i.onrender.com/)** | Real-time encrypted chat app with peer-to-peer video calling and secure messaging. Focused on privacy-first communication. | Node.js · React · WebRTC |
+| **[MockMate AI](https://github.com/rku-21/mockMate-AI)** | AI-powered mock interview platform that records voice responses, converts speech to text, evaluates answers using LLMs, and provides personalized feedback with scoring. | React · Node.js · LLM APIs · Speech-to-Text |
+| **[Customer Churn Prediction](https://github.com/rku-21/customer_churn_prediction)** | End-to-end ML web app that predicts customer churn using Kaggle dataset, with a FastAPI backend and interactive React frontend. | FastAPI · React · Python · Scikit-learn |
+| **[Sky Hopper Game](https://sky-hopper-murex.vercel.app)** | Browser-based bird game built using HTML5 Canvas with smooth animations, collision detection, and increasing difficulty levels. | HTML5 Canvas · JavaScript |
 
 ## GitHub Stats
 
