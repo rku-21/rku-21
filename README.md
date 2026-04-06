@@ -10,38 +10,61 @@
 
 ## About
 
-ECE student who writes code at the intersection of **AI/ML** and **full-stack engineering**.  
-Currently shipping a real-time encrypted chat app and an AI video automation pipeline.
+ECE student focused on AI/ML and full-stack development.
+Currently building a real-time chat application, an AI video generation pipeline, and MockMate AI, an interview practice platform.
+
 
 ---
 
 ## Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b)
-
-**Web**
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=10b981)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ef4444)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f97316)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10b981)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=10b981)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
+### 🧑‍💻 Languages
+[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00d4ff)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
+
+### Frontend
+[![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34c26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=264de4)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+---
+
+### Backend
+[![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=10b981)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
+
+---
+
+### Real-Time & Communication
+[![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&logo=socket.io&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
+[![Socket.io](https://img.shields.io/badge/Socket.io-0d1117?style=for-the-badge&logo=socket.io&logoColor=ffffff)](https://socket.io/)
+[![WebRTC](https://img.shields.io/badge/WebRTC-0d1117?style=for-the-badge&logo=webrtc&logoColor=ff4b4b)](https://webrtc.org/)
+
+---
+
+###  Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=10b981)](https://www.mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)](https://www.mysql.com/)
+
+---
+
+### AI / ML
+[![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ef4444)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)](https://www.tensorflow.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f97316)](https://scikit-learn.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10b981)](https://opencv.org/)
+
+---
+
+### Tools & Deployment
+[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f1502f)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37)](https://www.postman.com/)
+[![Render](https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46e3b7)](https://render.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://vercel.com/)
 
 | Project | Description | Stack |
 |---|---|---|
