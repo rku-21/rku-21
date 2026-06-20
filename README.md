@@ -107,7 +107,7 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
-| **[Privex Chat App](https://privex-200i.onrender.com/)** | Real-time encrypted chat with peer-to-peer video calling, typing indicators, read receipts, and secure messaging. Optimized message retrieval with cursor-based pagination (43% faster). Peer-to-peer audio/video calling with WebRTC at 480ms call setup time. | Node.js · React · MongoDB · Socket.io · WebRTC · Redis · Express | [Live Demo](https://privex-200i.onrender.com/) |
+| **[Privex Chat App](https://privex-chat.tech)** | Real-time encrypted chat with peer-to-peer video calling, typing indicators, read receipts, and secure messaging. Optimized message retrieval with cursor-based pagination (43% faster). Peer-to-peer audio/video calling with WebRTC at 480ms call setup time. | Node.js · React · MongoDB · Socket.io · WebRTC · Redis · Express | [Live Demo](https://privex-200i.onrender.com/) |
 | **[MockMate AI](https://github.com/rku-21/mockMate-AI)** | AI-powered mock interview platform that records voice responses, converts speech-to-text, evaluates answers using LLMs, and provides personalized feedback with scoring. | React · Node.js · LLM APIs · Speech-to-Text · Express | [GitHub](https://github.com/rku-21/mockMate-AI) |
 | **[Smart Attendance & Curriculum System](https://github.com/rku-21)** | QR-based attendance system with real-time synchronization using Socket.io. Designed REST APIs for attendance and user management. | React · Node.js · MongoDB · Socket.io | [GitHub](https://github.com/rku-21) |
 | **[Customer Churn Prediction](https://github.com/rku-21/customer_churn_prediction)** | End-to-end ML web app predicting customer churn using ensemble models. Achieved 87% precision, 85% recall, 0.89 F1 score. Created 25+ engineered features. | Python · Pandas · Scikit-learn · FastAPI · React | [GitHub](https://github.com/rku-21/customer_churn_prediction) |
@@ -119,8 +119,8 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 
 | Platform | Username | Problems Solved | Rating | Peak Rating |
 |----------|----------|-----------------|--------|------------|
-| **LeetCode** | [rku-21](https://leetcode.com/rku-21) | 600+ | 1780 | 1780 ⭐ |
-| **Codeforces** |[rku-21](https://codeforces.com/profile/rku_21)| 100+ | 1253 | 1253 ⭐ |
+| **LeetCode** | [rku-21](https://leetcode.com/rku-21) | 750+ | 1810 | 1810 ⭐ |
+| **Codeforces** |[rku-21](https://codeforces.com/profile/rku_21)| 150+ | 1395 | 1395 ⭐ |
 
 ---
 
