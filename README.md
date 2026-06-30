@@ -66,13 +66,10 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 ---
 
 ### AI / ML & Data Science
-[![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ef4444)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=ff6f00)](https://www.tensorflow.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f97316)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff)](https://matplotlib.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=10b981)](https://opencv.org/)
 [![LLM APIs](https://img.shields.io/badge/LLM%20APIs-0d1117?style=for-the-badge&logo=openai&logoColor=00d4ff)](https://openai.com/)
 
 ---
@@ -107,7 +104,7 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 
 | Project | Description | Tech Stack | Live |
 |---------|-------------|-----------|------|
-| **[Privex Chat App](https://privex-chat.tech)** | Real-time encrypted chat with peer-to-peer video calling, typing indicators, read receipts, and secure messaging. Optimized message retrieval with cursor-based pagination (43% faster). Peer-to-peer audio/video calling with WebRTC at 480ms call setup time. | Node.js · React · MongoDB · Socket.io · WebRTC · Redis · Express | [Live Demo](https://privex-200i.onrender.com/) |
+| **[Privex Chat App](https://privex-chat.tech)** | Real-time encrypted chat with peer-to-peer video calling, typing indicators, read receipts, and secure messaging. Optimized message retrieval with cursor-based pagination (43% faster). Peer-to-peer audio/video calling with WebRTC at 480ms call setup time. | Node.js · React · MongoDB · Socket.io · WebRTC · Redis · Express | [Live Demo](https://privex-chat.tech) |
 | **[MockMate AI](https://github.com/rku-21/mockMate-AI)** | AI-powered mock interview platform that records voice responses, converts speech-to-text, evaluates answers using LLMs, and provides personalized feedback with scoring. | React · Node.js · LLM APIs · Speech-to-Text · Express | [GitHub](https://github.com/rku-21/mockMate-AI) |
 | **[Smart Attendance & Curriculum System](https://github.com/rku-21)** | QR-based attendance system with real-time synchronization using Socket.io. Designed REST APIs for attendance and user management. | React · Node.js · MongoDB · Socket.io | [GitHub](https://github.com/rku-21) |
 | **[Customer Churn Prediction](https://github.com/rku-21/customer_churn_prediction)** | End-to-end ML web app predicting customer churn using ensemble models. Achieved 87% precision, 85% recall, 0.89 F1 score. Created 25+ engineered features. | Python · Pandas · Scikit-learn · FastAPI · React | [GitHub](https://github.com/rku-21/customer_churn_prediction) |
@@ -119,7 +116,7 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 
 | Platform | Username | Problems Solved | Rating | Peak Rating |
 |----------|----------|-----------------|--------|------------|
-| **LeetCode** | [rku-21](https://leetcode.com/rku-21) | 750+ | 1810 | 1810 ⭐ |
+| **LeetCode** | [rku-21](https://leetcode.com/rku-21) | 760+ | 1850+ | 1850+ ⭐ |
 | **Codeforces** |[rku-21](https://codeforces.com/profile/rku_21)| 150+ | 1395 | 1395 ⭐ |
 
 ---
