@@ -16,9 +16,9 @@
 
 ## About
 
-Full Stack and AI/ML Engineer with hands-on experience building real-time applications and scalable systems. Currently developing Privex Chat App with WebRTC, MockMate AI interview platform, and machine learning solutions. Strong foundation in data structures, API design, and cloud-native deployment.
+Full-Stack Developer with hands-on experience building scalable backend systems and real-time applications. Built Privex, a real-time chat platform with WebRTC, and DistriLimit, a distributed rate-limiting library. Currently building DistriELB, a distributed load balancer to deepen my understanding of system design and distributed systems. Strong foundation in data structures, algorithms, API design, and cloud-native deployment, with a focus on building reliable, high-performance software.
 
-**📞 Contact:** +91-6201904909 | 📧 upadhyayrahul21642@gmail.com
+**📞 Contact:** +91-6201904909 | 📧 upadhyayrahul21642@gmail.com 📧rahulupadhyay21642@gmail.com
 
 ---
 
@@ -30,6 +30,7 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 [![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3b82f6)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f59e0b)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)](https://www.postgresql.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 
 ---
 
@@ -98,26 +99,14 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 
 **Core Competencies:** Arrays, Strings, Hashing, Recursion, Trees, Graphs, Dynamic Programming, Greedy Algorithms, Sorting & Searching
 
----
 
-## Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|---------|-------------|-----------|------|
-| **[Privex Chat App](https://privex-chat.tech)** | Real-time encrypted chat with peer-to-peer video calling, typing indicators, read receipts, and secure messaging. Optimized message retrieval with cursor-based pagination (43% faster). Peer-to-peer audio/video calling with WebRTC at 480ms call setup time. | Node.js · React · MongoDB · Socket.io · WebRTC · Redis · Express | [Live Demo](https://privex-chat.tech) |
-| **[MockMate AI](https://github.com/rku-21/mockMate-AI)** | AI-powered mock interview platform that records voice responses, converts speech-to-text, evaluates answers using LLMs, and provides personalized feedback with scoring. | React · Node.js · LLM APIs · Speech-to-Text · Express | [GitHub](https://github.com/rku-21/mockMate-AI) |
-| **[Smart Attendance & Curriculum System](https://github.com/rku-21)** | QR-based attendance system with real-time synchronization using Socket.io. Designed REST APIs for attendance and user management. | React · Node.js · MongoDB · Socket.io | [GitHub](https://github.com/rku-21) |
-| **[Customer Churn Prediction](https://github.com/rku-21/customer_churn_prediction)** | End-to-end ML web app predicting customer churn using ensemble models. Achieved 87% precision, 85% recall, 0.89 F1 score. Created 25+ engineered features. | Python · Pandas · Scikit-learn · FastAPI · React | [GitHub](https://github.com/rku-21/customer_churn_prediction) |
-| **[Sky Hopper Game](https://sky-hopper-murex.vercel.app)** | Browser-based bird game with smooth animations, collision detection, and increasing difficulty levels. | HTML5 Canvas · JavaScript | [Play](https://sky-hopper-murex.vercel.app) |
-
----
 
 ## 📊 Coding Profiles
 
 | Platform | Username | Problems Solved | Rating | Peak Rating |
 |----------|----------|-----------------|--------|------------|
-| **LeetCode** | [rku-21](https://leetcode.com/rku-21) | 760+ | 1850+ | 1850+ ⭐ |
-| **Codeforces** |[rku-21](https://codeforces.com/profile/rku_21)| 150+ | 1395 | 1395 ⭐ |
+| **LeetCode** | [rku-21](https://leetcode.com/rku-21) | 800+ | 1850+ | 1900+ ⭐ |
+| **Codeforces** |[rku-21](https://codeforces.com/profile/rku_21)| 200+ | 1395 | 1395 ⭐ |
 
 ---
 
@@ -126,7 +115,7 @@ Full Stack and AI/ML Engineer with hands-on experience building real-time applic
 - 🥇 **1st Position** - Internal Hackathon SIH 2025, NIT Nagaland
 -  🎯 **Selected for Specialist Programmer L1 Interview** - HackWithInfy 2026
 - 🏏 **Institute Representative** - Inter NIT Cricket Tournaments
-- 🎓 **CGPA: 9.0/10** - NIT Nagaland (Electronics & Communication Engineering)
+- 🎓 **CGPA: 9.2/10** - NIT Nagaland (Electronics & Communication Engineering)
 
 ---
 
